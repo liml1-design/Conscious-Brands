@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Conscious Brands",
+    "description": "Detects if a brand has ethical labor practices",
+    "icons": {
+        "128": "./images/128.png",
+        "48": "./images/48.png",
+        "32": "./images/32.png"
+    },
+    "version": "1.0",
+    "action" : {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["scripting", "activeTab"]
+    
+    
+    
+}
+   

@@ -1,0 +1,1024 @@
+{
+  "amazon": 
+  [
+    {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Amazon warehouse workers were found to be hurt at twice the rate of other warehouses.",
+      "wage": "Amazon warehouse workers earn 15% less than comparable workers.",
+      "discrimination": "Amazon was accused of discrimination against pregnant and disabled workers.",
+      "child": "Amazon was linked to suplers using forced labor.",
+      "forced": "Amazon was linked to supliers using forced labor.",
+      "union": "Amazon has refused to recognize labor unions"
+    }
+  ],
+"alibaba": 
+[
+  {
+		"s": 0,
+    "w": 0,
+    "d": 0,
+    "c": 0,
+    "f": 1,
+    "u": 0,
+    "safe": "Rape accusations have occured in the company.",
+    "wage": "There is not currently enough information on Alibaba for this regard.",
+    "discrimination": "Alibaba has been accussed of discriminating against women.",
+    "child": "Alibaba has been linked to supliers that use child labor.",
+    "forced": "There is not enough information on the subject of forced labor.",
+    "union": "There is not enough information on unions in the Alibaba company."
+  }
+],
+"walmart": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 1,
+    "u": 0,
+    "safe": "It has been cited for over 100 OSHA violations in 5 years.",
+    "wage": "Walmart pays minimum wage.",
+    "discrimination": "Walmart was faced with a lawsuit from 1.5 million workers for discrimination against women.",
+    "child": "Walmart was fined $135,540 for violating child labor laws",
+    "forced": "Walmart does not have forced labor, but it may exist in the supply chain.",
+    "union": "Walmart has intimidated and retaliated against workers for unionizing."
+  }
+],
+
+"bestbuy": 
+[
+  {
+    "s": 1,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 0,
+    "safe": "There is evidence that Best Buy has generally safe working conditions.",
+    "wage": "Bestbuy pays a 15 dollar minimum wage.",
+    "discrimination": "Best Buy has been sued for discrimination based on age, sex, and race.",
+    "child": "There is no evidence of child labor at Best Buy.",
+    "forced": "There is no evidence of forced labor at Best Buy.",
+    "union": "Best Buy has a history of anti-union culture in the company."
+  }
+],
+
+"ebay": 
+[
+  {
+    "s": 1,
+    "w": 1,
+    "d": 1,
+    "c": 1,
+    "f": 1,
+    "u": 0,
+    "safe": "There is generally safe workplace conditions at Ebay.",
+    "wage": "Ebay pays generally fair wages.",
+    "discrimination": "While there has been evidence of racial bias amongst buys and sellers, the company has no significant discrimination scandals.",
+    "child": "There is no evidence of child labor at Ebay.",
+    "forced": "There is no evidence of forced labor at Ebay.",
+    "union": "Ebay has been accussed of union busting."
+  }
+],
+
+"target": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 0,
+    "safe": "Target has been accussed of having unsafe backrooms.",
+    "wage": "Target pays a minimum wage of 15-20 dollars per hour.",
+    "discrimination": "Target was involved in a 3.74 million dollar race discrimination lawsuit.",
+    "child": "Target has been accused of having supliers that use child labor.",
+    "forced": "Target has been accussed of using forced labor for back to school clothing.",
+    "union": "Target has opposed unions, even showing workers anti-union videos."
+  }
+],
+
+"homedepot": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 1,
+    "safe": "Home depot has been fined for multiple safety violations.",
+    "wage": "Home depot pays minimum wage.",
+    "discrimination": "Home depot was involved in multiple discrimination lawsuits.",
+    "child": "Home depot has been linked to supliers using child labor.",
+    "forced": "Home depot has been linked to supliers using forced labor.",
+    "union": "Home depot has no unions, but has no scandals around anti-union organizing."
+  }
+],
+
+"macys": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 0,
+    "u": 1,
+		"safe": "Macy's has been accused of having unsafe working conditions in the past.",
+    "wage": "Macys generally pays fair wages.",
+    "discrimination": "Macy's has faced several discrimination scandals.",
+    "child": "Macy's has not been directly linked to any scandals about child labor.",
+    "forced": "Macy's has been linked to forced labor in the past.",
+    "union": "UFCW is the union for Macy's workers"
+  }
+],
+
+"costco": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 1,
+    "safe": "There are reports of unsafe working conditions at Costco",
+    "wage": "Cotsco average hourly pay was about USD17. 60 an hour",
+    "discrimination": "Cotsco was involved in multiple discrimination lawsuits",
+    "child": "There have been reports of child labor",
+    "forced": "There have been reports of forced labor",
+    "union": "Costco Wholesale is 100% union friendly and has always allowed its employees to unionize"
+  }
+],
+
+"wayfair": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 0,
+    "safe": "Wayfair has been accused of having unsafe working conditions in the past.",
+    "wage": "The average hourly pay for Wayfair is $18.11",
+    "discrimination": "Wayfair has faced several discrimination scandals",
+    "child": "There have been scandals and conspiracy theories, but there is no credible evidence to support claims of child labor.",
+    "forced": "Wayfair has not been directly linked to any scandals about forced labor.",
+    "union": "There is a no labor union for Wayfair and it does not let employees unionize."
+  }
+],
+"rakuten": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 1,
+    "safe": "Rakuten has been involved in a few controversies over the years.",
+    "wage": "Rakuten offers fair wages to its employees",
+    "discrimination": "There are reports of a discrimination scandal associated with Rakuten.",
+    "child": "There is no indication of any child labor scandal associated with Rakuten.",
+    "forced": "Rakuten has not been directly linked to any forced labor scandals.",
+    "union": "Rakuten does not prohibit employees from discussing unionization."
+  }
+],
+"qvc": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 0,
+    "safe": "There have been some scandals associated with QVC",
+    "wage": "The average QVC salary ranges from approximately $20,000 per year for Material Handler",
+    "discrimination": "QVC has faced discrimination scandals.",
+    "child": "QVC has not been directly linked to any child labor scandals.",
+    "forced": "QVC has not been directly linked to any forced labor scandals.",
+    "union": "QVC does not let employees unionize."
+  }
+],
+"zalando": 
+[
+  {
+    "s": 0,
+    "w": 0,
+    "d": 0,
+    "c": 1,
+    "f": 0,
+    "u": 0,
+    "safe": "Zalando has been involved in a few controversies over the years. In 2017, the company was accused of violating labor laws in Germany.",
+    "wage": "There are reports of low pay and poor working conditions at Zalando.",
+    "discrimination": "The company has been involved in some controversies in the past. I",
+    "child": "Zalando has not been directly linked to any child labor scandals.",
+    "forced": "In 2020, Zalando was also accused of using forced labor in its supply chain.",
+    "union": "Zalando does not allow employees to unionize."
+  }
+],
+"asos": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 0,
+    "u": 0,
+    "safe": "ASOS has been involved in a few controversies over the years.",
+    "wage": "It seems that ASOS does pay its employees fair wages",
+    "discrimination": "ASOS has been involved in discrimination scandals ",
+    "child": "There is no evidence that ASOS knowingly uses child labor.",
+    "forced": "ASOS has been involved in a few scandals over the years, including allegations of using forced labor.",
+    "union": "ASOS does not currently allow employees to unionize"
+  }
+],
+"nordstrom": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 0,
+    "safe": "Nordstrom has also been criticized for its treatment of employees. In 2018, the company was sued by a group of employees who alleged that they were subjected to sexual harassment",
+    "wage": "The minimum wage at Nordstrom varies depending on the job title and location, but it ranges from $13.00 to $15.00 per hour for entry-level positions.",
+    "discrimination": "Nordstrom has faced few public allegations of harassment and discrimination.",
+    "child": "Nordstrom has not been directly linked to any child labor scandals.",
+    "forced": "Nordstrom has not been directly linked to any forced labor scandals.",
+    "union": "Nordstrom does not allow employees to unionize."
+  }
+],
+"kohls": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 1,
+    "u": 0,
+    "safe": "In 2017, the company was accused of violating labor laws in the United States, that included retaliating against employees who complained about working conditions.",
+    "wage": "The average hourly pay for Kohl's ranges from approximately $10.00 per hour",
+    "discrimination": "There have been a few allegations of discrimination against Kohl's employees in recent years",
+    "child": "Kohl's has not been directly linked to any child labor scandals.",
+    "forced": "Kohl's has not been directly linked to any forced labor scandals.",
+    "union": "Kohl's is not a unionized company."
+  }
+],
+"newegg": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 1,
+    "u": 0,
+    "safe": "There have been some scandals associated with Newegg",
+    "wage": "Newegg has not been directly linked to any scandals involving unfair wages.",
+    "discrimination": "There is no indication of any discrimination scandal associated with Newegg.",
+    "child": "There are no publicly available records or reports indicating that Newegg has ever used child labor.",
+    "forced": "Newegg has not been directly linked to any forced labor scandals.",
+    "union": "Newegg does not allow employees to unionize."
+  }
+],
+"overstock": 
+[
+  {
+    "s": 1,
+    "w": 1,
+    "d": 1,
+    "c": 1,
+    "f": 1,
+    "u": 1,
+    "safe": "Overstock has not been involved in any scandals of unsafe working conditions.",
+    "wage": "Overstock offers fair wages",
+    "discrimination": "Overstock has not been involved in any discrimination scandals.",
+    "child": "Overstock has never used child labor and has not been involved in any scandals related to child labor.",
+    "forced": "There is no indication of any forced labor scandal associated with Overstock.",
+    "union": "Overstock allows its employees to unionize."
+  }
+],
+"etsy": 
+[
+  {
+    "s": 0,
+    "w": 0,
+    "d": 0,
+    "c": 0,
+    "f": 1,
+    "u": 0,
+    "safe": "Not Applicable",
+    "wage": "Not Applicable",
+    "discrimination": "Not Applicable",
+    "child": "Not Applicable",
+    "forced": "Etsy has not been directly involved in any forced labor scandals.",
+    "union": "Etsy does not have employees. Instead, the company is a marketplace for sellers"
+  }
+],
+"aliexpress": 
+[
+  {
+    "s": 0,
+    "w": 0,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 0,
+    "safe": "Not Applicable",
+    "wage": "Not Applicable",
+    "discrimination": "Not Applicable",
+    "child": "Not Applicable",
+    "forced": "Not Applicable",
+    "union": "AliExpress does not have employees. Instead, the company is a marketplace for sellers."
+  }
+],
+"hm": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 1,
+    "safe": "H&M has been involved in some scandals of unsafe working conditions, such as a 2013 fire at a factory in Bangladesh that killed over 1,100 workers.",
+    "wage": "H&M has a code of conduct that prohibits suppliers from paying wages below the local minimum wage. The minimum wage in Bangladesh, where many of H&M's suppliers are located, is around $60 per month.",
+    "discrimination": "H&M has been involved in several discrimination scandals.",
+    "child": "&M has been accused of using child labor in its supply chain.",
+    "forced": "H&M has been accused of using forced labor in its supply chain.",
+    "union": "H&M allows its employees to unionize."
+  }
+],
+"lowes": 
+[
+  {
+    "s": 1,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 0,
+    "u": 0,
+    "safe": "Lowe's offers safe working conditions and has safety standards in place for its employees",
+    "wage": "The average hourly pay for Lowe's Home Improvement Inc. is $14.24 in 2023",
+    "discrimination": "Lowe's has been involved in a sexual harassment discrimination lawsuit and agreed to pay $700,000 to settle the case",
+    "child": "There is no evidence of Lowe's being involved in child labor scandals.",
+    "forced": "In 2017, a supplier of Lowe's was linked to slave labor in the Amazon",
+    "union": "Lowe's allows its employees to unionize"
+  }
+],
+"tesco": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 1,
+    "safe": "Tesco faced legal claims over worker conditions at a Thai factory",
+    "wage": "Tesco's pay rates range from £9.30 to £12.09 per hour, depending on the job",
+    "discrimination": "Tesco faced a discrimination lawsuit in 2016 over pay rates for night and weekend shifts",
+    "child": "In 2006, Tesco was linked to child labor in Bangladesh",
+    "forced": "Tesco faced a lawsuit in 2022 over forced labor allegations in a Thai factory",
+    "union": "Tesco faces questions on workers' rights, but there is no clear evidence of prohibiting unionization"
+  }
+],
+"williams-sonomainc": 
+[
+  {
+    "s": 1,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 1,
+    "safe": "There is no clear evidence of unsafe working conditions at Williams-Sonoma, but they faced a lawsuit over unpaid COVID-19 screening times",
+    "wage": "Has an average hourly pay of $18.51 in 2023",
+    "discrimination": "There have been some allegations of discrimination at Williams-Sonoma in recent years",
+    "child": "Williams-Sonoma has a policy of prohibiting child labor in its supply chain.",
+    "forced": "Williams-Sonoma has a policy of prohibiting forced labor in its supply chain. T",
+    "union": "There is no clear evidence of Williams-Sonoma prohibiting unionization."
+  }
+],
+"ikea": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 1,
+    "safe": "Despite IKEA's commitment to safe working conditions, there have been some scandals involving the company.",
+    "wage": "IKEA US raised its starting wages to $16 per hour in 2021, with some hourly wages starting at $17 or $18 depending on location",
+    "discrimination": "IKEA faced multiple age discrimination lawsuits in the US",
+    "child": "IKEA was linked to child labor in India in the 1990s, but has since implemented strict policies and partnered with UNICEF and Save the Children to address the issue",
+    "forced": "IKEA suppliers in Belarus were accused of using forced labor in prisons, but the company has implemented social compliance and audit programs to address such issues",
+    "union": "There is no clear evidence of IKEA prohibiting unionization, but the company faced criticism for dismissing a union representative in Glasgow"
+  }
+],
+"zara": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 0,
+    "c": 0,
+    "f": 0,
+    "u": 1,
+    "safe": "ZARA has been involved in scandals related to unsafe working conditions in Brazil and Argentina",
+    "wage": "ZARA's average hourly pay is $14.87, with a range of $11.65 to $19.91 per hour",
+    "discrimination": "Zara has been involved in a number of discrimination scandals in recent years.",
+    "child": "ZARA was accused of employing children as young as 14 in Brazil",
+    "forced": "ZARA has been linked to forced labor camps in China and faced allegations of slave labor in Brazil",
+    "union": "There is no clear evidence of ZARA prohibiting unionization."
+  }
+],
+"barnesandnoble": 
+[
+  {
+    "s": 0,
+    "w": 1,
+    "d": 1,
+    "c": 1,
+    "f": 1,
+    "u": 1,
+    "safe": "No clear evidence of unsafe working conditions at Barnes & Noble was found.",
+    "wage": "B&N increased its minimum wage to $15 per hour in 2021",
+    "discrimination": "No clear evidence of discrimination scandals involving Barnes & Noble was found.",
+    "child": "No evidence of child labor scandals involving Barnes & Noble was found.",
+    "forced": "No evidence of forced labor scandals involving Barnes & Noble was found.",
+    "union": "There is no clear evidence of Barnes & Noble prohibiting unionization."
+  }
+],
+"staples": 
+[
+  {
+    "s": 0,
+    "w": 0,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 1,
+    "safe": "Staples faced lawsuits over unpaid overtime wages and off-the-clock work in California.",
+    "wage": "No clear information on Staples' minimum wage was found.",
+    "discrimination": "Staples has been involved in a discrimination scandals.",
+    "child": "There have been no public reports of Staples being involved in a child labor scandal.",
+    "forced": "No evidence of forced labor scandals involving Staples was found.",
+    "union": "There is no clear evidence of Staples prohibiting unionization."
+  }
+],
+"officedepot": 
+[
+  {
+    "s": 1,
+    "w": 1,
+    "d": 0,
+    "c": 1,
+    "f": 1,
+    "u": 1,
+    "safe": "Office Depot has not been involved in any major scandals of unsafe working conditions",
+    "wage": "Office Depot offers a starting wage that is higher than the federal minimum wage.",
+    "discrimination": "Office Depot has been involved in a few discrimination scandals.",
+    "child": "There have been no public reports of Office Depot using child labor. However, the company does have a Supplier Code of Conduct that prohibits the use of child labor.",
+    "forced": "There have been no public reports of Office Depot using forced labor.",
+    "union": "Office Depot allows its employees to unionize."
+  }
+],
+"sears": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 1,
+      "safe": "Sears has been involved in a few scandals of unsafe working conditions.",
+      "wage": "Sears does offers a starting wage that is higher than the federal minimum wage",
+      "discrimination": "Sears has been involved in a few discrimination scandals.",
+      "child": "Sears was fined $325,000 in 1999 for violating child labor laws by allowing teenagers to operate power-driven equipment.",
+      "forced": "There have been no public reports of Sears using forced labor.",
+      "union": "Sears allows its employees to unionize."
+  }
+],
+"bedbathandbeyond": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "Bed, Bath & Beyond in recent years, has been accused of violating labor laws",
+      "wage": "The company is facing a class-action lawsuit from employees who allege that they were not paid overtime wages.",
+      "discrimination": "Bed, Bath & Beyond has been involved in a few discrimination scandals.",
+      "child": "There have been no public reports of Bed, Bath & Beyond using child labor.",
+      "forced": "There have been no public reports of Bed, Bath & Beyond using forced labor.",
+      "union": "Bed, Bath & Beyond allows its employees to unionize."
+  }
+],
+"victoriassecret": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Victoria's Secret has been involved in a few scandals of unsafe working conditions.",
+      "wage": "VS does offer a starting wage that is higher than the federal minimum wage.",
+      "discrimination": "Victoria's Secret has been involved in a few discrimination scandals",
+      "child": "Victoria's Secret has been accused of using child labor in the past.",
+      "forced": "Victoria's Secret has been accused of using sweatshop labor in the past.",
+      "union": "Victoria's Secret does not allow its employees to unionize."
+  }
+],
+"gap": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Gap has been involved in a few scandals of unsafe working conditions.",
+      "wage": "Gap does offer a starting wage that is higher than the federal minimum wage",
+      "discrimination": "Gap has been involved in a few discrimination scandals.",
+      "child": "Gap has been accused of using child labor in the past.",
+      "forced": "Gap has been accused of using sweatshop labor in the past.",
+      "union": "Gap allows its employees to unionize."
+  }
+],
+"oldnavy": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Old Navy has been involved in a few scandals of unsafe working conditions.",
+      "wage": "The company does offer a starting wage that is higher than the federal minimum wage",
+      "discrimination": "Old Navy has been involved in a few discrimination scandals.",
+      "child": "Old Navy has been accused of using child labor in the past.",
+      "forced": "Old Navy has been accused of using sweatshop labor in the past",
+      "union": "Old Navy allows its employees to unionize"
+  }
+],
+"jcrew": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "There are no reports of J.Crew being involved in a scandal of unsafe working conditions.",
+      "wage": "J. Crew hourly pay ranges from approximately $11.00 per hour",
+      "discrimination": "There have been reports of discrimination involving J.Crew.",
+      "child": "The company has been accused of using child labor.",
+      "forced": "The company has been accused of using sweatshop labor.",
+      "union": "The company has been accused ofretaliating against employees who have tried to unionize."
+  }
+],
+"nike": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Nike has been involved in scandals of unsafe working conditions in the past.",
+      "wage": "Nike does not disclose the minimum salary it pays its workers.",
+      "discrimination": "Nike has been involved in some discrimination scandals in the past.",
+      "child": "Nike has been accused of using child labor in the past and there have been some reports of problems persisting.",
+      "forced": "Nike has not been accused of using forced labor.",
+      "union": "Nike does not allow its employees to unionize."
+  }
+],
+"adidas": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Adidas has been involved in scandals of unsafe working conditions in the past.",
+      "wage": "Adidas does not disclose the minimum salary it pays its workers.",
+      "discrimination": "Adidas has not been involved in any discrimination scandals in the past.",
+      "child": "Adidas has been accused of using child labor in the past.",
+      "forced": "Adidas has not been accused of using forced labor.",
+      "union": "Adidas does not allow its employees to unionize."
+  }
+],
+"footlocker": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Foot Locker has been involved in scandals of unsafe working conditions in the past.",
+      "wage": "Has an average hourly rate of $9.03",
+      "discrimination": "Foot Locker has not been involved in any discrimination scandals in the past.",
+      "child": "Foot Locker has been accused of using child labor in the past",
+      "forced": "Foot Locker has not been accused of using forced labor.",
+      "union": "Foot Locker does not allow its employees to unionize."
+  }
+],
+"ultabeauty": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "Ulta Beauty has not been involved in any scandals of unsafe working conditions.",
+      "wage": "It has fair wages, that ranges from an average of $10.01 to $22.74 an hour",
+      "discrimination": "Ulta Beauty has not been involved in any discrimination scandals.",
+      "child": "Ulta Beauty has not been accused of using child labor.",
+      "forced": "Ulta Beauty has not been accused of using forced labor.",
+      "union": "Ulta Beauty allows its employees to unionize."
+  }
+],
+
+"sephora": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "Sephora has not been involved in any scandals of unsafe working conditions.",
+      "wage": "Sephora has said that it pays its workers above the local minimum wage.",
+      "discrimination": "Sephora has not been involved in any discrimination scandals.",
+      "child": "Sephora has not been accused of using child labor.",
+      "forced": "Sephora has not been accused of using forced labor.",
+      "union": "Sephora allows its employees to unionize."
+  }
+],
+"petco": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "Petco has not been involved in any scandals of unsafe working conditions.",
+      "wage": "Hourly pay at Petco Animal Supplies, Inc. ranges from an average of $10.61 to $22.01",
+      "discrimination": "Petco has not been involved in any discrimination scandals.",
+      "child": "Petco has not been accused of using child labor.",
+      "forced": "Petco has not been accused of using forced labor.",
+      "union": "Petco allows its employees to unionize."
+  }
+],
+"petsmart": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 1,
+      "f": 1,
+      "u": 0,
+      "safe": "PetSmart has been involved in scandals of unsafe working conditions.",
+      "wage": "In no instance will PetSmart pay less than the minimum wage.",
+      "discrimination": "PetSmart has been involved in discrimination scandals.",
+      "child": "PetSmart has not been accused of using child labor.",
+      "forced": "PetSmart has not been accused of using forced labor.",
+      "union": "PetSmart does not allow its employees to unionize."
+  }
+],
+"urbanoutfitters": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "Urban Outfitters has been involved in scandals of unsafe working conditions.",
+      "wage": "Urban Outfitters does not disclose the minimum salary it pays its workers.",
+      "discrimination": "Urban Outfitters has been involved in discrimination scandals.",
+      "child": "Urban Outfitters has been accused of using child labor in the past",
+      "forced": "Urban Outfitters has not been accused of using forced labor.",
+      "union": "Urban Outfitters does not allow its employees to unionize."
+  }
+],
+"rei": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "REI has a good record on safety. The company has a number of policies in place to ensure the safety of its employees.",
+      "wage": "REI pays its employees above the local minimum wage.",
+      "discrimination": "REI has not been involved in any discrimination scandals.",
+      "child": "REI has never used child labor.",
+      "forced": "REI has never used forced labor.",
+      "union": "REI allows its employees to unionize."
+  }
+],
+"gnc": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "There is no evidence that GNC has been involved in any scandals of unsafe working conditions",
+      "wage": "There have been no reports of GNC being involved in any scandals related to wages.",
+      "discrimination": "There is no evidence that GNC has been involved in any discrimination scandals.",
+      "child": "There is no evidence that GNC has ever used child labor.",
+      "forced": "There is no evidence that GNC has ever used forced labor.",
+      "union": "GNC allows its employees to unionize."
+  }
+],
+"chewy": 
+[
+  {
+      "s": 1,
+      "w": 0,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "There is no evidence that Chewy has been involved in any scandals of unsafe working conditions.",
+      "wage": "Chewy does not disclose the minimum salary it pays its employees.",
+      "discrimination": "There is no evidence that Chewy has been involved in any discrimination scandals.",
+      "child": "There is no evidence that Chewy has ever used child labor.",
+      "forced": "There is no evidence that Chewy has ever used forced labor.",
+      "union": "Chewy allows its employees to unionize"
+  }
+],
+
+"gamestop": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "There is no evidence that GameStop has been involved in any scandals of unsafe working conditions.",
+      "wage": "There have been no reports of GameStop being involved in any scandals related to wages.",
+      "discrimination": "There is no evidence that GameStop has been involved in any discrimination scandals.",
+      "child": "There is no evidence that GameStop has ever used child labor.",
+      "forced": "There is no evidence that GameStop has ever used forced labor.",
+      "union": "GameStop allows its employees to unionize."
+  }
+],
+"dickssportinggoods": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 1,
+      "safe": "There is no evidence that Dick's Sporting Goods has been involved in any scandals of unsafe working conditions.",
+      "wage": "Average DICK'S Sporting Goods hourly pay ranges from approximately $10.49 per hour for Cashier",
+      "discrimination": "There is no evidence that Dick's Sporting Goods has been involved in any discrimination scandals.",
+      "child": "There is no evidence that Dick's Sporting Goods has ever used child labor.",
+      "forced": "There is no evidence that Dick's Sporting Goods has ever used forced labor.",
+      "union": "Dick's Sporting Goods allows its employees to unionize."
+  }
+],
+
+"abercrombieandfitch": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "There have been allegations of unsafe working conditions at Abercrombie & Fitch stores.",
+      "wage": "There is no evidence that Abercrombie & Fitch offers fair wages. The company does not disclose the minimum salary it pays its employees.",
+      "discrimination": "Abercrombie & Fitch has been involved in several discrimination scandals",
+      "child": "Abercrombie & Fitch has been accused of using child labor.",
+      "forced": "There is no evidence that Abercrombie & Fitch has ever used forced labor",
+      "union": "Abercrombie & Fitch does not allow its employees to unionize."
+  }
+],
+
+"forever21": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "There have been allegations of unsafe working conditions at Forever 21 factories.",
+      "wage": "There have been some reports of Forever 21 employees being paid below the minimum wage.",
+      "discrimination": "Forever 21 has been involved in several discrimination scandals.",
+      "child": ", Forever 21 has been accused of using child labor.",
+      "forced": "There is no evidence that Forever 21 has ever used forced labor.",
+      "union": "Forever 21 does not allow its employees to unionize."
+  }
+],
+"patagonia": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "Patagonia has a good record on safe working conditions.",
+      "wage": "Patagonia offers fair wages. The company's minimum wage is $15 per hour",
+      "discrimination": "Patagonia has not been involved in any discrimination scandals.",
+      "child": "Patagonia has never used child labor.",
+      "forced": "Patagonia has never used forced labor.",
+      "union": "Patagonia allows its employees to unionize."
+  }
+],
+"underarmour": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 0,
+      "safe": "Under Armour has a good record on safe working conditions.",
+      "wage": "Under Armour offers fair wages. The company's minimum wage is $15 per hour",
+      "discrimination": "Under Armour has not been involved in any discrimination scandals.",
+      "child": "Under Armour has never used child labor.",
+      "forced": "Under Armour has never used forced labor.",
+      "union": "Under Armour does not allow its employees to unionize."
+  }
+],
+"lululemon": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 0,
+      "safe": "There is no evidence that Lululemon has been involved in any scandals of unsafe working conditions.",
+      "wage": "Lululemon pays its employees a minimum wage of $15 per hour",
+      "discrimination": "Lululemon has not been involved in any discrimination scandals.",
+      "child": "Lululemon has never used child labor.",
+      "forced": "Lululemon has never used forced labor.",
+      "union": "Lululemon does not allow its employees to unionize."
+  }
+],
+"potterybarn": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 0,
+      "safe": "There is no evidence that Pottery Barn has been involved in any scandals of unsafe working conditions.",
+      "wage": "Pottery Barn pays its employees a minimum wage of $15 per hour",
+      "discrimination": "Pottery Barn has not been involved in any discrimination scandals.",
+      "child": "Pottery Barn has never used child labor.",
+      "forced": "Pottery Barn has never used forced labor.",
+      "union": "Pottery Barn does not allow its employees to unionize."
+  }
+],
+"westelm": 
+[
+  {
+      "s": 1,
+      "w": 1,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 0,
+      "safe": "There is no evidence that West Elm has been involved in any scandals of unsafe working conditions.",
+      "wage": "West Elm pays its employees a minimum wage of $15 per hour",
+      "discrimination": "West Elm has not been involved in any discrimination scandals.",
+      "child": "West Elm has never used child labor.",
+      "forced": "West Elm has never used forced labor.",
+      "union": "West Elm does not allow its employees to unionize."
+  }
+],
+"michaels": 
+[
+  {
+      "s": 0,
+      "w": 1,
+      "d": 0,
+      "c": 0,
+      "f": 1,
+      "u": 0,
+      "safe": "Michaels has faced multiple allegations of sexual harassment",
+      "wage": "The starting pay at Michaels Stores in California is around $24,000 per year, or $12 per hour.",
+      "discrimination": "Michaels has faced multiple allegations of racial discrimination and abuse",
+      "child": "In 2023, Michaels, a major arts and crafts retailer, was fined $1.5 million after it was found to have illegally employed 100 children under the age of 16 at its stores in Wisconsin.",
+      "forced": "There have been no allegations of forced labor at Michaels.",
+      "union": "Employees of Michaels cannot unionize."
+  }
+],
+
+
+"hottopic": 
+[
+  {
+      "s": 1,
+      "w": 0,
+      "d": 1,
+      "c": 1,
+      "f": 1,
+      "u": 0,
+      "safe": "There is no evidence that Hot Topic has been involved in any scandals of unsafe working conditions.",
+      "wage": "Hot Topic does not disclose its minimum wage, but it has been criticized for its low wages. In 2015, a former Hot Topic employee filed a lawsuit alleging that the company had failed to pay her overtime wages.",
+      "discrimination": "There is no evidence that Hot Topic has been involved in any discrimination scandals.",
+      "child": "There is no evidence that Hot Topic has ever used child labor.",
+      "forced": "There is no evidence that Hot Topic has ever used forced labor.",
+      "union": "Hot Topic does not allow its employees to unionize."
+  }
+],
+
+"temu": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "There is no evidence that Temu offers safe working conditions",
+      "wage": "Temu has been criticized for its low wages.",
+      "discrimination": "Temu has been accused of discrimination.",
+      "child": "Temu has been accused of using child labor in its supply chain.",
+      "forced": "Temu has been accused of using forced labor in its supply chain.",
+      "union": "Temu does not let its employees unionize."
+  }
+],
+
+"shein": 
+[
+  {
+      "s": 0,
+      "w": 0,
+      "d": 0,
+      "c": 0,
+      "f": 0,
+      "u": 0,
+      "safe": "Shein has been involved in allegations and scandals related to unsafe working conditions and poor treatment of workers",
+      "wage": "There is no evidence that Shein offers fair wage.",
+      "discrimination": "Shein has been accused of discrimination.",
+      "child": "Shein has been accused of using child labor in its supply chain.",
+      "forced": "Shein has been involved in allegations and scandals related to forced labor",
+      "union": "Shein does not let its employees unionize."
+  }
+]
+
+
+
+
+}
